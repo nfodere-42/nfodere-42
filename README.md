@@ -1,3 +1,4 @@
 ## Hi, I'm Néo — a programmer and student at 42 Barcelona 👋
-![](nfodere-.svg)
+[![](https://badge.mediaplus.ma/greenbinary/nfodere-)](https://github.com/oakoudad/badge42)
+
 <!-- Neo Fodere de Frutos. -->
